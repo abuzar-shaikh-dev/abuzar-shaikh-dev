@@ -42,6 +42,6 @@ I am a B.Tech CSE (AI & ML) student focused on building intelligent systems and 
 ---
 
 ## 👔 Professional Ventures
-- 💻 **Owner of Page Tracbyte:** [Click here to view Tracbyte](https://github.com)
+- 💻 **Owner of Page Tracbyte:** [Click here to view Tracbyte](https://github.com/tracbyte)
 
 <!-- REMINDER: Replace 'your-github-username/tracbyte-repo-name' with the exact path to your Tracbyte GitHub page or repository -->
