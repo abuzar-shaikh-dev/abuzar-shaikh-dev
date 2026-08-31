@@ -17,10 +17,29 @@ I am a B.Tech CSE (AI & ML) student focused on building intelligent systems and 
 ---
 
 ## 🛠️ Technical Skills
-### 💻 Languages & Frontend
+
+### 🗣️ Languages
 ![Python](https://shields.io)
+
+### ⚙️ Backend
+![Flask](https://shields.io)
+
+### 🎨 Frontend
 ![HTML5](https://shields.io)
 ![CSS3](https://shields.io)
+
+### 🗄️ Database
+![MySQL](https://shields.io)
+
+### 🧰 Tools
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+
+---
+
+## 🤝 Soft Skills
+- Team Lead
+- Attention to detail
 
 ---
 
@@ -41,6 +60,6 @@ I am a B.Tech CSE (AI & ML) student focused on building intelligent systems and 
 ---
 
 ## 👔 Professional Ventures
-- 💻 **Owner of Page Tracbyte:** [Click here to view Tracbyte](https://github.com/tracbyte)
+- 💻 **Owner of Page Tracbyte:** [Click here to view Tracbyte](https://github.com)
 
 <!-- REMINDER: Replace 'your-github-username/tracbyte-repo-name' with the exact path to your Tracbyte GitHub page or repository -->
