@@ -48,7 +48,7 @@ I am a B.Tech CSE (AI & ML) student focused on building intelligent systems and 
 ## 📈 Activity Stats
 
 ### Contribution Graph
-![GitHub Contributions](https://rshah.org)
+![GitHub Contributions](https://vercel.app)
 
 ---
 
