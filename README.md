@@ -17,11 +17,10 @@ I am a B.Tech CSE (AI & ML) student focused on building intelligent systems and 
 ---
 
 ## 🛠️ Technical Skills
-*(Structured in clean, ATS-friendly plain text format)*
-
-- **AI/ML & Data Science:** Python, NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch, Data Preprocessing
-- **Core Computer Science:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOPs), SQL, Database Management Systems (DBMS)
-- **Developer Tools & Tech:** Git, GitHub, VS Code, Linux
+### 💻 Languages & Frontend
+![Python](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
 
 ---
 
