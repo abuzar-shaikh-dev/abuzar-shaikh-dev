@@ -34,12 +34,14 @@ I am a B.Tech CSE (AI & ML) student focused on building intelligent systems and 
 ### 🧰 Tools
 ![Git](https://shields.io)
 ![GitHub](https://shields.io)
+![IBM watsonx Assistant](https://shields.io)
+![Intelligent Virtual Agents](https://shields.io)
 
 ---
 
 ## 🤝 Soft Skills
-- Team Lead
-- Attention to detail
+- Team Leadership
+- Attention to Detail
 
 ---
 
