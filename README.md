@@ -19,23 +19,23 @@ I am a B.Tech CSE (AI & ML) student focused on building intelligent systems and 
 ## 🛠️ Technical Skills
 
 ### 🗣️ Languages
-![Python](https://shields.io)
+<img src="https://shields.io" alt="Python">
 
 ### ⚙️ Backend
-![Flask](https://shields.io)
+<img src="https://shields.io" alt="Flask">
 
 ### 🎨 Frontend
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
+<img src="https://shields.io" alt="HTML5"> 
+<img src="https://shields.io" alt="CSS3">
 
 ### 🗄️ Database
-![MySQL](https://shields.io)
+<img src="https://shields.io" alt="MySQL">
 
 ### 🧰 Tools
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![IBM watsonx Assistant](https://shields.io)
-![Intelligent Virtual Agents](https://shields.io)
+<img src="https://shields.io" alt="Git"> 
+<img src="https://shields.io" alt="GitHub"> 
+<img src="https://shields.io" alt="IBM watsonx"> 
+<img src="https://shields.io" alt="Intelligent Virtual Agents">
 
 ---
 
@@ -48,8 +48,7 @@ I am a B.Tech CSE (AI & ML) student focused on building intelligent systems and 
 ## 📈 Activity Stats
 
 ### Contribution Graph
-![GitHub Contributions](https://rshah.org)
-
+<img src="https://rshah.org" alt="GitHub Contributions">
 
 ---
 
